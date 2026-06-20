@@ -8,7 +8,7 @@ LUMEL is built to be private *by architecture*, not by promise.
 
 ## Data flow
 
-- LUMEL runs in Apple's **App Sandbox** and ships **without any network entitlement** — it has no ability to open a network connection, so it cannot send data off your Mac even in principle.
+- LUMEL runs in Apple's **App Sandbox** and ships **without any network entitlement**, so it has no ability to open a network connection, so it cannot send data off your Mac even in principle.
 - Your preferences (boost level, mode, per-display settings, onboarding state) are stored locally in macOS `UserDefaults` on your device. Nothing syncs to a server, because there is no server.
 - The optional **LUMEL Pro** purchase is processed entirely by the **App Store (StoreKit)**. LUMEL never sees or handles payment details, and the transaction does not route through any LUMEL backend.
 
@@ -26,4 +26,4 @@ LUMEL renders through Apple's public Extended Dynamic Range path. Your Mac's dis
 
 ## Reporting a vulnerability
 
-Found a security issue? Please **email [kapisch@icloud.com](mailto:kapisch@icloud.com)** with details and steps to reproduce — please don't open a public issue for security reports. We aim to acknowledge within a few days, and we're happy to credit you once it's resolved.
+Found a security issue? Please **email [kapisch@icloud.com](mailto:kapisch@icloud.com)** with details and steps to reproduce. Please don't open a public issue for security reports. We aim to acknowledge within a few days, and we're happy to credit you once it's resolved.
