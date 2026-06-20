@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ⬇️ Download LUMEL
+    url: https://apps.apple.com/us/app/lumel/id6776136831
+    about: Get LUMEL on the Mac App Store.
+  - name: 🌐 Website & FAQ
+    url: https://getlumel.app
+    about: Features, the honest comparison, and frequently asked questions.
+  - name: 📧 Security or private support
+    url: mailto:kapisch@icloud.com
+    about: Report a security issue or reach the developer directly.

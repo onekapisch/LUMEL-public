@@ -1,0 +1,47 @@
+name: 🐞 Bug report
+description: Something isn't working as expected in LUMEL.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve LUMEL. A little detail goes a long way toward a fast fix.
+  - type: input
+    id: version
+    attributes:
+      label: LUMEL version
+      description: Shown in LUMEL → About.
+      placeholder: "1.0"
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "e.g. macOS 15.5"
+    validations:
+      required: true
+  - type: input
+    id: mac
+    attributes:
+      label: Mac model & display
+      placeholder: 'e.g. 16" MacBook Pro M3 Max (built-in XDR) + Studio Display'
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open LUMEL
+        2. Switch to Boost / Eclipse
+        3. ...
+    validations:
+      required: false

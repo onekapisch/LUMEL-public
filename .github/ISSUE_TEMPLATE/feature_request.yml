@@ -1,0 +1,25 @@
+name: 💡 Feature request
+description: Suggest an improvement, or a Mac / display LUMEL should support.
+title: "[Idea]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: What would you like LUMEL to do?
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does it solve?
+      description: The situation or pain behind the request.
+    validations:
+      required: false
+  - type: input
+    id: mac
+    attributes:
+      label: Your Mac & display (if relevant)
+      placeholder: 'e.g. 14" MacBook Pro M4 + LG UltraFine'
+    validations:
+      required: false

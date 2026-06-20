@@ -1,0 +1,22 @@
+LUMEL — Proprietary Software License
+Copyright (c) 2026 Kapish Bhardwaj. All rights reserved.
+
+LUMEL is commercial, closed-source software distributed through the Apple
+Mac App Store. This repository ("LUMEL-public") contains only documentation,
+release notes, screenshots, and the public issue tracker for LUMEL. It does
+NOT contain the application's source code.
+
+No license is granted to the LUMEL source code, application binaries, name,
+logo, or brand assets. You may not copy, modify, distribute, sublicense,
+reverse engineer, or create derivative works of the LUMEL application except
+as expressly permitted by the Apple Media Services Terms and Conditions (the
+"Standard EULA") under which the app is licensed:
+
+    https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+The documentation in this repository may be referenced and quoted with
+attribution, but may not be republished wholesale or presented as your own.
+
+THE SOFTWARE AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
