@@ -40,7 +40,7 @@ LUMEL fixes **both**, from the menu bar, using Apple's public Extended Dynamic R
 
 - ☀️ **Boost beyond the cap:** push a supported XDR display toward its ~1600-nit peak so it stays readable in direct sunlight.
 - 🌙 **Eclipse: dim below the minimum.** Go darker than macOS allows for night reading and dark rooms. *Free and unlimited.*
-- ↔️ **Both directions, one app:** the only Mac brightness app that brightens **and** dims. No second app for night.
+- ↔️ **Both directions, one app:** brighten past the cap **and** dim below the minimum, from one menu-bar app. At $2.99 it's the lowest-priced two-way brightness app on the Mac App Store.
 - ⌨️ **Global shortcut (⌃⌥⌘B):** toggle boost from any app. **No Accessibility permission required.**
 - 🔋 **Battery-aware:** set a 10-50% threshold and boost switches off automatically; Low Power Mode disables it too.
 - ⏲️ **Optional auto-off timer:** 30 min / 1 h / 2 h, so sustained brightness never sneaks up on you.
@@ -68,9 +68,9 @@ An honest look at the apps people ask about: differences, not trash-talk.
 
 | | **LUMEL** | Vivid | BrightIntosh | LumiMax |
 |---|:--:|:--:|:--:|:--:|
-| **Direction** | **Brighten + dim** | Brighten only | Brighten only | Brighten only |
-| **Dim below minimum** | ✅ Eclipse | ❌ | ❌ | ❌ |
-| **Price** | **Free + $2.99 once** | ~$15 once | $1.99 once | $16.35 + fee |
+| **Direction** | **Brighten + dim** | Brighten + dim | Brighten only | Brighten only |
+| **Dim below minimum** | ✅ Eclipse | ✅ Eclipse mode | ❌ | ❌ |
+| **Price** | **Free + $2.99 once** | €10 · $24.99 App Store | $1.99 once | $17.99 |
 | **Free tier** | ✅ Compare boost + full Eclipse | Watermark demo | 3‑day trial | 3‑day trial |
 | **Native brightness keys** | ❌ *(sandbox trade-off)* | ✅ | ✅ | ✅ |
 | **Collects no data** | ✅ | ✅ | ✅ | ✅ |
@@ -103,7 +103,7 @@ Have a bug, a Mac that should be supported, or a feature idea? **[Open an issue]
 No. LUMEL is a commercial, closed-source app on the Mac App Store. This repository hosts its docs, release notes, and issue tracker. (Prefer open source? [BrightIntosh](https://brightintosh.de/) is a solid GPL-licensed, brighten-only option.)
 
 **Why pay $2.99 when BrightIntosh is $1.99 (and free apps exist)?**
-Because LUMEL is the only one that also **dims below the minimum**, and its free tier (Compare boost plus **unlimited Eclipse dimming**) never expires. You're paying for two-way control and a lasting free tier, not just a brightness boost. If you only ever brighten, a cheaper brighten-only app may suit you better, and that's fine.
+BrightIntosh only brightens. LUMEL also **dims below the minimum** with Eclipse, and its free tier (Compare boost plus **unlimited Eclipse dimming**) never expires. At $2.99 it's the lowest-priced app on the Mac App Store that does both directions — the other two-way apps (Vivid, Lunar) cost far more. If you only ever brighten, a cheaper brighten-only app may suit you better, and that's fine.
 
 **Does it collect any data?**
 No. Sandboxed, no network entitlement, no analytics or accounts. Your preferences stay on your Mac. See [SECURITY.md](SECURITY.md).
