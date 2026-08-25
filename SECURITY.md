@@ -26,4 +26,4 @@ LUMEL renders through Apple's public Extended Dynamic Range path. Your Mac's dis
 
 ## Reporting a vulnerability
 
-Found a security issue? Please **email [kapisch@icloud.com](mailto:kapisch@icloud.com)** with details and steps to reproduce. Please don't open a public issue for security reports. We aim to acknowledge within a few days, and we're happy to credit you once it's resolved.
+Found a security issue? Please **email [support@onekapisch.com](mailto:support@onekapisch.com)** with details and steps to reproduce. Please don't open a public issue for security reports. We aim to acknowledge within a few days, and we're happy to credit you once it's resolved.
